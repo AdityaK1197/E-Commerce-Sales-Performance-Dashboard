@@ -1,10 +1,10 @@
 # 📊 Power BI Sales Performance Dashboard
 
-Sales Dashboard Preview.png
-
 📌 Project Overview
 This project is a Sales Performance Dashboard built in Power BI using transactional data from an Excel dataset.
 The dashboard enables interactive exploration of sales trends, customer behavior, and product performance across regions.
+
+
 
 📂 Dataset Description
 The source data is based on retail transactions and contains the following key fields:
