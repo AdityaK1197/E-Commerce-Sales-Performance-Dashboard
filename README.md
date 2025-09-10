@@ -5,6 +5,8 @@ This project is a Sales Performance Dashboard built in Power BI using transactio
 The dashboard enables interactive exploration of sales trends, customer behavior, and product performance across regions.
 
 
+![Myimage](https://github.com/AdityaK1197/E-Commerce-Sales-Performance-Dashboard/blob/a8934fc5cb24511fff2c3f93db6d085f41eec9dc/Sales%20Dashboard%20Preview.png)
+
 
 📂 Dataset Description
 The source data is based on retail transactions and contains the following key fields:
