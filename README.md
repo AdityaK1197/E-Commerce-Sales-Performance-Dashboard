@@ -1,6 +1,6 @@
 # 📊 Power BI Sales Performance Dashboard
 
-(https://github.com/AdityaK1197/E-Commerce-Sales-Performance-Dashboard/blob/dc5c8edbd5328c368a9a78d4fd36807d55eab640/PowerBI%20Sales%20Dashboard.pdf)
+https://github.com/AdityaK1197/E-Commerce-Sales-Performance-Dashboard/blob/dc5c8edbd5328c368a9a78d4fd36807d55eab640/PowerBI%20Sales%20Dashboard.pdf
 
 📌 Project Overview
 This project is a Sales Performance Dashboard built in Power BI using transactional data from an Excel dataset.
