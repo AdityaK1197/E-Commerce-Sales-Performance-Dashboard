@@ -1,6 +1,7 @@
 # 📊 Power BI Sales Performance Dashboard
 
-📌 Project Overview
+#📌 Project Overview
+
 This project is a Sales Performance Dashboard built in Power BI using transactional data from an Excel dataset.
 The dashboard enables interactive exploration of sales trends, customer behavior, and product performance across regions.
 
@@ -8,7 +9,8 @@ The dashboard enables interactive exploration of sales trends, customer behavior
 ![Myimage](https://github.com/AdityaK1197/E-Commerce-Sales-Performance-Dashboard/blob/a8934fc5cb24511fff2c3f93db6d085f41eec9dc/Sales%20Dashboard%20Preview.png)
 
 
-📂 Dataset Description
+#📂 Dataset Description
+
 The source data is based on retail transactions and contains the following key fields:
 
 • InvoiceNo – Unique identifier for each transaction
@@ -30,7 +32,7 @@ The source data is based on retail transactions and contains the following key f
 • Country – Country where the order was placed
 
 
-📈 Key Insights Delivered
+#📈 Key Insights Delivered
 
 The dashboard provides:
 
@@ -44,7 +46,7 @@ The dashboard provides:
 
 • Cancelled vs Delivered Orders – Order fulfillment tracking
 
-🎯 Business Value
+#🎯 Business Value
 
 Helps identify top-performing countries and products
 
@@ -54,7 +56,7 @@ Helps identify top-performing countries and products
 
 • Provides actionable insights for improving sales strategy
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 • Power BI Desktop – Data visualization and dashboarding
 
